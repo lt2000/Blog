@@ -12,6 +12,8 @@
   background-color: rgba(0,0,0,0.3);
 }
 .banner .page-header {
+  line-height: 1.5em;
+  font-family: 'Long Cang', cursive;
   margin: 0;
   letter-spacing: .01rem;
   color: rgba(255, 255, 255, .8);
