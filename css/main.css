@@ -12,7 +12,6 @@
   background-color: rgba(0,0,0,0.3);
 }
 .banner .page-header {
-  display: none;
   letter-spacing: .01rem;
   font-weight: 400;
   color: rgba(255, 255, 255, .8);
