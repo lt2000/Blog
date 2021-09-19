@@ -12,17 +12,17 @@
   background-color: rgba(0,0,0,0.3);
 }
 .banner .page-header {
-  font-family: 'Long Cang', cursive;
   letter-spacing: -1px;
-  color: rgba(255, 255, 255, .8);
-  -webkit-animation-delay: .1s;
-  animation-delay: .3s;
-  text-shadow: 0 3px 6px rgba(0, 0, 0, .5);
-  font-weight: 400;
+  font-weight: 700;
+  color: #fff;
+  -webkit-animation-delay: .6s;
+  animation-delay: .5s;
+  text-shadow: 0 3px 6px rgba(0, 0, 0, .3);
+  animation: fade-in-down 1s both;
+  -webkit-animation: fade-in-down 1s both;
+  mix-blend-mode: screen;
   font-size: 5rem;
-  -webkit-animation: fade-in-down .9s;
-  animation: fade-in-down .9s both;
-  -webkit-box-orient: vertical
+  font-family: Playball, cursive
 }
 @media (max-width: 575px) {
   .banner .page-header,
