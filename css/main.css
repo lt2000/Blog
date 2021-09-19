@@ -13,8 +13,8 @@
 }
 .banner .page-header {
   letter-spacing: .01rem;
-  font-weight: 700;
-  color: #fff;
+  font-weight: 400;
+  color: rgba(255, 255, 255, .8);
   -webkit-animation-delay: .6s;
   animation-delay: .5s;
   text-shadow: 0 3px 6px rgba(0, 0, 0, .3);
