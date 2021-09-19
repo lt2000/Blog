@@ -12,17 +12,19 @@
   background-color: rgba(0,0,0,0.3);
 }
 .banner .page-header {
+  display: none;
   letter-spacing: .01rem;
   font-weight: 400;
   color: rgba(255, 255, 255, .8);
   -webkit-animation-delay: .6s;
   animation-delay: .5s;
-  text-shadow: 0 3px 6px rgba(0, 0, 0, .3);
+  text-shadow: 0 3px 6px rgba(0, 0, 0, .5);
   animation: fade-in-down 1s both;
   -webkit-animation: fade-in-down 1s both;
   mix-blend-mode: screen;
   font-size: 5rem;
   font-family: 'Long Cang', cursive
+  
 }
 @media (max-width: 575px) {
   .banner .page-header,
