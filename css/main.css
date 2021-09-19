@@ -12,17 +12,20 @@
   background-color: rgba(0,0,0,0.3);
 }
 .banner .page-header {
-  letter-spacing: -1px;
-    font-weight: 700;
-    color: #fff;
-    -webkit-animation-delay: .6s;
-    animation-delay: .5s;
-    text-shadow: 0 3px 6px rgba(0, 0, 0, .3);
-    animation: fade-in-down 1s both;
-    -webkit-animation: fade-in-down 1s both;
-    mix-blend-mode: screen;
-    font-size: 5rem;
-    font-family: Playball, cursive
+  margin: 0;
+  letter-spacing: .01rem;
+  color: rgba(255, 255, 255, .8);
+  text-shadow: 0 3px 6px rgba(0, 0, 0, .5);
+  display: none;
+  font-weight: 400;
+  font-size: 2.2rem;
+  -webkit-animation: fade-in-down .9s;
+  animation: fade-in-down .9s both;
+  -webkit-animation-delay: .1s;
+  animation-delay: .3s;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 10;
+  overflow: hidden
 }
 @media (max-width: 575px) {
   .banner .page-header,
