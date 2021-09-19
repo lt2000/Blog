@@ -12,7 +12,7 @@
   background-color: rgba(0,0,0,0.3);
 }
 .banner .page-header {
-  letter-spacing: -1px;
+  letter-spacing: .01rem;
   font-weight: 700;
   color: #fff;
   -webkit-animation-delay: .6s;
