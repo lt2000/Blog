@@ -749,7 +749,7 @@
   animation: fade-in-down 1s both;
   -webkit-animation: fade-in-down 1s both;
   mix-blend-mode: screen;
-  font-size: 0.01rem;
+  font-size: 0.9rem;
   font-family: 'Long Cang', cursive
   
 }
