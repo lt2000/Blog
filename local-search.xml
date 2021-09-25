@@ -8,7 +8,7 @@
     <link href="/2021/09/25/K8s%E8%B0%83%E7%A0%94/"/>
     <url>/2021/09/25/K8s%E8%B0%83%E7%A0%94/</url>
     
-    <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="热点问题在K8s的场景下有没有新的优化空间？"><a href="#热点问题在K8s的场景下有没有新的优化空间？" class="headerlink" title="热点问题在K8s的场景下有没有新的优化空间？"></a>热点问题在K8s的场景下有没有新的优化空间？</h1><h2 id="网络方面"><a href="#网络方面" class="headerlink" title="网络方面"></a>网络方面</h2><h3 id="静态网络"><a href="#静态网络" class="headerlink" title="静态网络"></a>静态网络</h3><ul><li>网络建立的优化<ul><li>单个container的网络</li><li>container的互联网络，包括单主机和多主机</li></ul></li><li>网络路径的优化<ul><li>eg：overlay的网络路径优化</li></ul></li></ul><h2 id="动态网络"><a href="#动态网络" class="headerlink" title="动态网络"></a>动态网络</h2><ul><li>容器迁移<ul><li>容器迁移中网络的需求</li></ul></li><li>扩缩容，调度</li></ul>]]></content>
     
     
     
